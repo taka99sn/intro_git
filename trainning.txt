@@ -1,0 +1,2 @@
+$git config --global user.email ここに自分のアドレス
+$git config --global user.name ここに自分の名前
