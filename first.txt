@@ -5,3 +5,4 @@ Gitの練習をしてきます。
 /git rm
 /test
 /test2
+/git diff
